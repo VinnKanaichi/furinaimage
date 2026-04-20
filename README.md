@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rhnxofficial/Uploader/main/uploader/rhnx-WRvQ.jpg" width="80%" />
+  <img src="https://raw.githubusercontent.com/rhnxofficial/Uploader/main/uploader/rhnx-7JMR.jpg" width="80%" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VinnKanaichi/VinnKanaichi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rhnxofficial/Uploader/main/uploader/rhnx-7JMR.jpg" />
 </p>
 
 ---
